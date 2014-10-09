@@ -1,4 +1,4 @@
 # -*- encoding: utf-8 -*-
 module Pillboxr
- VERSION = "0.9.1"
+ VERSION = "0.9.2"
 end

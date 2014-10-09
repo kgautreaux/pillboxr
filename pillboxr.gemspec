@@ -20,7 +20,7 @@ END
 
   s.rubyforge_project         = "pillboxr"
 
-  s.add_dependency 'httparty', '~> 0.8.3'
+  s.add_dependency 'httparty', '~> 0.13.1'
 
   s.add_development_dependency "bundler", "~> 1.0.0"
   s.add_development_dependency 'webmock', '~>1.8.8'

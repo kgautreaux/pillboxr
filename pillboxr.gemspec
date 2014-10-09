@@ -18,7 +18,6 @@ The pillbox API provides information from the FDA about various prescription med
 *Note:* This library is designed for use with Ruby 1.9.3 and above, and will not work with earlier versions of Ruby.
 END
 
-  s.required_rubygems_version = "~> 1.8.6"
   s.rubyforge_project         = "pillboxr"
 
   s.add_dependency 'httparty', '~> 0.8.3'
